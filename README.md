@@ -1,8 +1,10 @@
-## Hi there, I'm Mengyuan👋
+### Hi there, I'm Mengyuan 👋
 
-📍 Barcelona
+📍 Barcelona, Spain
 
 🔗 LinkedIn: [Mengyuan Li](linkedin.com/in/mengyuanli0802)
+
+📮 Email: mengyuanacuario@gmail.com / limengyuanaquarius@hotmail.com
 
 #### About Me 🌐
 
@@ -11,7 +13,7 @@ Enthusiastic Data Science Bootcamp graduate passionate about leveraging data to 
 
 #### Professional Highlights 🌟
 - 🔭 I'm currently managing international group tour operations at a wholesale travel company, refining problem-solving and coordination skills.
-- 🌱 I’m currently working on actively building my data science portfolio, focusing on projects in data analysis, machine learning and visualization to drive insights and solve business problems. 
+- 🌱 I’m currently actively working on building my data science portfolio, focusing on projects in data analysis, machine learning and visualization to drive insights and solve business problems. 
 
 
 ### Projects 📖
@@ -19,8 +21,22 @@ Enthusiastic Data Science Bootcamp graduate passionate about leveraging data to 
 - [Barcelona hourses selling price](https://github.com/Mengyuan-animo/EDA_Barcelona-Houses-Selling-Prices.git): An exploratory data analysis of datasets of Barceona published second-hand housing prices, selling prices of districts and renting price in Barcelona.
 
 
+#### Tools and Frameworks 🛠️💻
+- My toolkit includes a blend of analytics tools and programming languages:
+
+- BI Tools: Tableau, PowerBi
+- Data Processing: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), MS-Excel
+- Database Management: SQL
+
+
+#### Education and Courses 🎓
+- Data Science Bootcamp: CodeOp, Spain
+- Master in Translation, Interpretatio and Intercultural Study: Universitat Autonoma de Barcelona
+- Google Data Analysis Professional Course: Coursera
+
+
 #### Collaboration 👯
-Looking to collaborate on: Projects involving machine learning, NLP, and AI agents.
-The best way to reach out to me is on [LinkedIn](linkedin.com/in/mengyuanli0802). 
-Languages for collaborations are Chinese, English, or Spanish. The reports in github are written in English. 
+- Looking to collaborate on: Projects involving data analysis, visualization, and model training where I can apply and enhance my skills in Python and Machine Learning. To deepen my understanding and proficiency in Python and ML models for more advanced data manipulation, analysis, and predictions.
+- Languages for collaborations are English, Spanish or Chinese. The reports in github are written in English. 
+
 
