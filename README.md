@@ -23,7 +23,6 @@ Enthusiastic Data Science Bootcamp graduate passionate about leveraging data to 
 
 #### Tools and Frameworks 🛠️💻
 - My toolkit includes a blend of analytics tools and programming languages:
-
 - BI Tools: Tableau, PowerBi
 - Data Processing: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), MS-Excel
 - Database Management: SQL
