@@ -17,9 +17,8 @@ Enthusiastic Data Science Bootcamp graduate passionate about leveraging data to 
 
 
 ### Projects 📖
-- [Airbnb prices in BCN and BER](https://github.com/Mengyuan-animo/Airbnb-Prices-of-2023-in-Barcelona-and-Berlin.git): An exploratory data analysis of datasets of airbnb prices of Barcelona and Berlin in 2023.
-- [Barcelona hourses selling price](https://github.com/Mengyuan-animo/EDA_Barcelona-Houses-Selling-Prices.git): An exploratory data analysis of datasets of Barceona published second-hand housing prices, selling prices of districts and renting price in Barcelona.
-
+- [Airbnb listings of BCN in 2023](https://github.com/Mengyuan-animo/Airbnb-Prices-of-2023-in-Barcelona-and-Berlin.git): Analyzed Barcelona’s 2023 Airbnb listings using Python (pandas, matplotlib, seaborn, folium) to explore neighbourhood supply/demand, room-type popularity, and pricing drivers. Identified how features such as location, license status, and availability influence price and visualized spatial patterns with interactive maps.
+- [Barcelona housing market](https://github.com/Mengyuan-animo/EDA_Barcelona-Houses-Selling-Prices.git): Analyzed Barcelona’s real estate datasets, including second-hand sales listings (Idealista, 2020), district-level selling prices (2013–2023), and rental prices (2014–2022), using Python (pandas, numpy, matplotlib, seaborn) to uncover long-term market trends. Examined price evolution across districts to identify areas with the highest appreciation, affordability shifts, and changing demand patterns. Calculated rental yields and price-to-rent ratios to evaluate which districts offer the strongest investment potential from a return-on-rental perspective. Created visualizations to compare districts over time, generating insights applicable to property investment decisions and urban housing strategy.
 
 #### Tools and Frameworks 🛠️💻
   My toolkit includes a blend of analytics tools and programming languages:
