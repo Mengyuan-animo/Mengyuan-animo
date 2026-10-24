@@ -8,7 +8,7 @@
 
 #### About Me 🌐
 
-Enthusiastic data analyst passionate about leveraging data to innovate in the travel tech industry. Currently transitioning from a dynamic customer care role in travel wholesale, eager to apply analytical skills to real-world challenges.
+Enthusiastic data analyst passionate about leveraging data to innovate in the travel tech industry. Currently transitioning from a dynamic operation role in travel wholesale, eager to apply analytical skills to real-world challenges.
 
 
 #### Professional Highlights 🌟
