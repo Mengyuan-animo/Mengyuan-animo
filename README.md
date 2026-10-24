@@ -20,7 +20,7 @@ Enthusiastic data analyst passionate about leveraging data to innovate in the tr
 
 ### Projects 📖
 
-- [Aurelia Jewelry Sales Data Analysis](PowerBI Dashboard Link: (https://app.powerbi.com/view?r=eyJrIjoiMDI5NTY2ZTktOTFhNy00M2Y2LWIxMDAtZGYyNzcwNjliZDdkIiwidCI6ImRjYzc1OGY4LTk4ZDktNGIxOC05NTNhLTJhNGRiOWE2NzdhOCJ9&pageName=4574dc6d77b747b3505d): Developed an interactive Power BI dashboard for a global jewelry brand to analyze sales performance across markets, products, and time periods using data modelling, Power Query, DAX measures, and time-based analysis.
+- [Aurelia Jewelry Sales Data Analysis](PowerBI Dashboard Link: (https://app.powerbi.com/view?r=eyJrIjoiNDVkZTMwY2MtNzdkYS00NTYzLWE4Y2YtMTk0MGIzYTFmMmQ3IiwidCI6ImRjYzc1OGY4LTk4ZDktNGIxOC05NTNhLTJhNGRiOWE2NzdhOCJ9&pageName=4574dc6d77b747b3505d): Developed an interactive Power BI dashboard for a global jewelry brand to analyze sales performance across markets, products, and time periods using data modelling, Power Query, DAX measures, and time-based analysis.
 
 - [Airbnb listings of BCN in 2023](https://github.com/Mengyuan-animo/Airbnb_Barcelona_2023_Exploratory_Data_Analysis.git): Analyzed Barcelona’s 2023 Airbnb listings using Python (pandas, matplotlib, seaborn, folium) to explore neighbourhood supply/demand, room-type popularity, and pricing drivers. Identified how features such as location, license status, and availability influence price and visualized spatial patterns with interactive maps.
 
