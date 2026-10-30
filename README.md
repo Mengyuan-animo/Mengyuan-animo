@@ -20,7 +20,7 @@ Enthusiastic data analyst passionate about leveraging data to innovate in the tr
 
 ### Projects 📖
 
-- [Aurelia Jewelry Sales Data Analysis](https://github.com/Mengyuan-animo/Aurelia-Jewelry-Sales-Data-Analysis.git): Built an interactive Power BI solution to uncover revenue drivers, market and product performance, and sales growth trends for a global jewelry business. Integrated dynamic multi-currency reporting with data modeling, DAX, and time intelligence to support flexible, business-focused performance analysis.
+- [Aurelia Jewelry Sales Data Analysis](https://github.com/Mengyuan-animo/Aurelia-Jewelry-Sales-Data-Analysis.git): Built an interactive Power BI solution to uncover revenue drivers, market and product performance, and sales growth trends for a global jewelry business. Integrated dynamic multi-currency reporting with data modeling, DAX, and time intelligence to turn complex sales data into actionable business insights.
 
 - [Airbnb listings of BCN in 2023](https://github.com/Mengyuan-animo/Airbnb_Barcelona_2023_Exploratory_Data_Analysis.git): Analyzed Barcelona’s 2023 Airbnb listings using Python (pandas, matplotlib, seaborn, folium) to explore neighbourhood supply/demand, room-type popularity, and pricing drivers. Identified how features such as location, license status, and availability influence price and visualized spatial patterns with interactive maps.
 
