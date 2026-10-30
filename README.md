@@ -32,9 +32,10 @@ Enthusiastic data analyst passionate about leveraging data to innovate in the tr
 #### Technical Skills 🛠️
 
 - **BI & Visualization:** Power BI (DAX, Power Query), Tableau, Matplotlib, Seaborn, Folium
-- **Data Analysis:** Python (Pandas, NumPy), Excel
-- **Data Modelling:** Star Schema, Fact & Dimension Tables, Data Transformation
-- **SQL & Databases:** SQL, PostgreSQL, CTEs, Window Functions
+- **Data Analysis:** Python (Pandas, NumPy), Excel, Exploratory Data Analysis (EDA), Statistical Analysis
+- **Data Preparation & ETL**: Data Cleaning, Data Transformation, Feature Engineering, Power Query
+- **Data Modelling:** Star Schema, Fact & Dimension Tables, DimDate, Bus Matrix, Data Modelling
+- **SQL & Databases:** SQL, PostgreSQL, CTEs, Window Functions, Subqueries
 - **Machine Learning:** Scikit-learn, Regression, Classification, Model Evaluation
 
 
